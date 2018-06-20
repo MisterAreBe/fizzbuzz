@@ -1,3 +1,3 @@
 def fizzbuzz()
-    ["fizz", "buzz"]
+    [*1..100]
 end
