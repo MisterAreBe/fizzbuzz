@@ -27,5 +27,4 @@ class TestTddFizz < Minitest::Test
         assert_equal("minds", fizzbuzz()[4])
     end
 
-    
 end
